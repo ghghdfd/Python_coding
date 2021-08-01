@@ -28,6 +28,7 @@ for student in array:
 
 
 ## 두 배열의 원소 교체
+
 n,k=map(int,input().split())
 
 a=list(map(int,input().split()))
